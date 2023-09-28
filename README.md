@@ -1,4 +1,4 @@
-# nxte-cayo-heist
+# m-cayo-heist
  Free Open-Source Cayo Perico heist
 
 - Easy to adjust all the hacks, items, loot, peds with the config.lua
